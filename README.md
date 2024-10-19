@@ -1,2 +1,2 @@
 # THS_INFO
-Trapezoidal Hollow Section
+Trapezoidal Hollow Section Information
